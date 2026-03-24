@@ -183,3 +183,40 @@ Masih sering dijumpai argumen asumsional di masyarakat yang menempatkan posisi g
 
 Sintesis yang terbentuk dari rekam analisis saintifik di atas dapat memberikan garis referensi kuat dalam menentukan kerangka aksi preventif di masa tenang, di antaranya dengan mendisiplinkan mitigasi non-biaya di Bab 2 dan inisiasi pembuatan peredam penyekat di Bab 3 kelak.
 =========================================================================================
+
+BAB 2: MITIGASI "NOL RUPIAH" (PERLINDUNGAN DARI DALAM)
+
+Mencegah kebakaran tidak selalu membutuhkan biaya besar untuk merenovasi rumah. Tingkat fatalitas kebakaran di permukiman rawa dapat ditekan drastis hanya dengan mengubah kebiasaan dan menata letak perabotan. Inilah yang disebut dengan Mitigasi "Nol Rupiah".
+
+Konsepnya sederhana: jauhkan barang-barang yang mudah terbakar dari sumber panas. Dengan disiplin harian, kita bisa memutus "Segitiga Api" sebelum membesar.
+
+2.1. Penataan Ulang Perabotan Internal (Menciptakan Jeda Api)
+
+Api merambat dengan cepat melalui perabotan yang menumpuk, apalagi yang sifatnya vertikal seperti gorden yang menjulur ke lantai. Berikut cara menatanya:
+
+- Beri Jarak pada Dinding Tetangga: Geser lemari pakaian, kasur, dan perabotan kayu minimum 30-50 cm dari dinding yang berbatasan langsung dengan rumah sebelah. Jeda udara ini sangat penting. Jika dinding mulai panas akibat kebakaran di rumah tetangga, api tidak akan langsung menyambar perabotan Anda.
+- Jauhkan Busa dan Plastik: Kasur busa sangat rawan terbakar. Begitu terbakar, lelehannya sangat panas dan beracun. Jauhkan kasur busa dari stopkontak, kompor, dan area dekat pintu keluar agar tidak menghalangi jalur evakuasi.
+
+2.2. Disiplin Keamanan Kompor di Lantai Kayu
+
+Dapur berlantaikan kayu atau papan berserat terbuka adalah area berisiko tinggi. Panas kompor yang terus-menerus mengenai kayu bisa memicu penyalaan.
+
+- Gunakan Alas Penahan Panas: Letakkan alas yang tidak mudah terbakar di bawah kompor, misalnya plat seng bekas, ubin/keramik sisa, atau benda besi yang pipih lainnya. Alas ini akan mencegah panas kompor langsung meresap ke lantai kayu.
+- Kosongkan Area Sekitar Kompor: Jangan meletakkan jerigen minyak goreng, lap kain, atau kardus dalam radius 50 cm dari kompor. Benda-benda ini bisa meleleh atau menyala secara perlahan akibat paparan panas (radiasi termal) tanpa disadari.
+- Jangan Ditinggal Saat Menyala: Aturan mutlak di rumah kayu: jangan pernah meninggalkan kompor yang menyala tanpa pengawasan, meskipun hanya sebentar.
+
+2.3. Manajemen Kabel Listrik Mandiri: Mencegah Korsleting Utama
+
+Korsleting sering menjadi penyebab utama kebakaran di permukiman padat akibat instalasi kabel yang dipasang tidak standar dan kelebihan beban listrik.
+
+- Hindari Colokan Bertumpuk: Jangan menggunakan terminal cabang bertumpuk-tumpuk. Beban listrik yang berlebihan akan membuat kabel panas, merusak pelapis plastiknya, dan memicu percikan api. Gunakan satu alat untuk satu colokan utama.
+- Lindungi Kabel dari Gesekan dan Gigitan Tikus: Jangan menjepit kabel terlalu kuat dengan paku karena bisa merusak pelindungnya. Bungkus kabel dengan pelindung tambahan seperti pipa air (paralon) bekas, terutama untuk jalur kabel yang rawan gigitan tikus.
+
+2.4. Keamanan Obat Nyamuk Bakar dan Lampu Minyak/Lilin
+
+Saat listrik padam, lilin atau lampu minyak sering digunakan, termasuk penggunaan obat nyamuk bakar semalaman. Karena menggunakan api terbuka, penggunaannya butuh kedisiplinan ekstra.
+
+- Alas Tahan Api untuk Obat Nyamuk: Jangan meletakkan obat nyamuk bakar sembarangan di atas lantai kayu atau tripleks. Percikan abunya bisa menyulut api. Selalu letakkan di atas wadah tahan api seperti loyang seng bekas atau wadah kaca tebal.
+- Jauhkan dari Benda Bergerak dan Angin: Letakkan lampu minyak dan lilin di luar jangkauan gorden jendela, dan jauhkan dari area tiupan angin terbuka dari arah rawa. Hembusan angin kencang tak terduga (angin lorong) bisa dengan mudah mengarahkan lidah api ke tripleks terdekat.
+
+Melalui modifikasi tata letak perabotan dan kebiasaan harian seperti di Bab 2 ini, kita telah membangun pertahanan paling dasar di dalam rumah. Selanjutnya, di Bab 3, kita akan membahas opsi fisik membuat sekat perlindungan ekstra untuk menahan rambatan api dari bangunan tetangga.
