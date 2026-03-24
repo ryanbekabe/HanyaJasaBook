@@ -22,7 +22,7 @@ Puji syukur kita panjatkan ke hadirat Tuhan Yang Maha Esa atas rahmat-Nya sehing
 ### Latar Belakang Penulisan
 Tinggal di kawasan padat penduduk dengan rumah panggung yang terbuat dari kayu di atas rawa berair bukanlah sekadar soal tempat bermukim. Saya, Riyan Hidayat Samosir, bersama keluarga dan tetangga-tetangga di lingkungan ini, merasakan sendiri denyut persaudaraan yang begitu erat. Namun, di balik eratnya ikatan sosial tersebut, tersimpan sebuah ancaman laten yang mengintai setiap detiknya: **ancaman api**.
 
-![Ilustrasi Kawasan Rawa Padat Penduduk](images/ilustrasi_rawa_padat.jpg)
+![Ilustrasi Kawasan Rawa Padat Penduduk](images/ilustrasi_rawa_padat.png)
 *Gambar 1: Ilustrasi rumah panggung berbahan kayu di kawasan rawa padat penduduk.*
 
 Bagi kita yang hidup dengan rumah panggung setinggi 5 hingga 7 meter dari permukaan rawa, rumah-rumah papan yang kering dan saling berhimpit—bahkan ada yang dindingnya saling menempel meniadakan jarak aman—membuat kawasan permukiman ini ibarat memeluk bom waktu. Ketika satu titik api kecil luput dari pengawasan dan terlambat dijinakkan, dalam hitungan menit lidah api akan merambat luar biasa cepat. Rambatan ini tidak pandang bulu, berpindah melompat dari atap ke atap, dan menelan habis jerih payah puluhan hingga ratusan keluarga tanpa memberi banyak waktu untuk mengevakuasi diri maupun harta benda. Sering kali pula, armada pemadam kebakaran terhambat oleh akses jalanan berupa titian rapuh atau lorong yang terlampau sempit.
@@ -61,7 +61,7 @@ Dalam ilmu proteksi kebakaran, proses terjadinya pembakaran dijelaskan melalui k
 
 Asumsi arsitektural pada desain rumah panggung lingkungan pesisir rawa menunjukkan ketinggian rata-rata 5 hingga 7 meter dari permukaan muka air menuju area penutup atap. Spesifikasi vertikal dari struktur sedemikian tinggi menciptakan suatu kerentanan termodinamika yang dikenal dengan nama **Efek Cerobong (Chimney Effect)**.
 
-![Anatomi Efek Cerobong](images/chimney_effect.jpg)
+![Anatomi Efek Cerobong](images/chimney_effect.png)
 *Gambar 2: Konsep rambatan api vertikal melalui Efek Cerobong pada panggung kayu.*
 
 Menurut prinsip rambatan termal, aliran suhu panas hasil proses pembakaran termodinamik selalu memiliki densitas massa jenis udara yang lebih rendah (lebih renggang) daripada udara bersuhu normal di sekitarnya. Karakteristik ini memaksa gas-gas pembakaran dan juga arah rambat api murni bergerak vertikal ke arah atas (secara konveksi). Kecepatan api struktural untuk berekspansi ke arah vertikal terbukti jauh lebih masif dan terakselerasi berlipat ganda ketimbang ke fase linear horizontal.
@@ -100,7 +100,7 @@ Api merambat dengan cepat melalui perabotan yang menumpuk, apalagi yang sifatnya
 - **Beri Jarak pada Dinding Tetangga**: Geser lemari pakaian, kasur, dan perabotan kayu minimum 30-50 cm dari dinding yang berbatasan langsung dengan rumah sebelah. Jeda udara ini sangat penting. Jika dinding mulai panas akibat kebakaran di rumah tetangga, api tidak akan langsung menyambar perabotan Anda.
 - **Jauhkan Busa dan Plastik**: Kasur busa sangat rawan terbakar. Begitu terbakar, lelehannya sangat panas dan beracun. Jauhkan kasur busa dari stopkontak, kompor, dan area dekat pintu keluar agar tidak menghalangi jalur evakuasi.
 
-![Penataan Jarak Aman Perabotan](images/jeda_api_perabotan.jpg)
+![Penataan Jarak Aman Perabotan](images/jeda_api_perabotan.png)
 *Gambar 3: Skema jarak ideal perabotan dari dinding sebagai penyekat rambatan panas.*
 
 ### 2.2. Disiplin Keamanan Kompor di Lantai Kayu
